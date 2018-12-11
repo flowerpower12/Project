@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.example.ss.smartparkingv4.CustomDialogClass.CustomDialogClass(a)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
